@@ -52,3 +52,9 @@ All analysis was carried out using **Python**, with libraries such as:
 
 Leon Godtfredsen  
 University of Edinburgh
+
+---
+
+## Acknowledgements
+
+This project was completed as part of the Image Processing component of the course at the University of Edinburgh.
